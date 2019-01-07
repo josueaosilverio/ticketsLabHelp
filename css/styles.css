@@ -1,0 +1,68 @@
+#container {
+    width: 100vw;
+    height: 100vh;
+    background-image: radial-gradient(farthest-corner at 100% 100%, #ad5389, #3c1053);
+    color: #fff;
+}
+
+#number {
+    font-size: 15em;
+    position: fixed;
+    top: 50%;
+    left: 30%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+#title{
+    font-size: 4em;
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+
+#number2 {
+    font-size: 15em;
+    position: fixed;
+    top: 50%;
+    left: 70%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+#title2{
+    font-size: 4em;
+    position: fixed;
+    top: 30%;
+    left: 70%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+
+#btn2{
+    position: fixed;
+    top: 75%;
+    left: 70%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+#btn1{
+    position: fixed;
+    top: 75%;
+    left: 30%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
